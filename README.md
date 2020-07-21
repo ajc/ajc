@@ -1,4 +1,4 @@
-# Cos
+# Hi, I'm Cos.
 
 ``` shell
 % finger ajc@github.com
@@ -25,5 +25,5 @@ Plan:
  ...but still around.
 ```
 
-* Recent news: https://ajc.me/
-* Much more via https://andrew.j.cosgriff.name/
+* Recent news :newspaper:: https://ajc.me/
+* Much more :arrow_double_right:: https://andrew.j.cosgriff.name/
