@@ -26,4 +26,4 @@ Plan:
 ```
 
 * Recent news :newspaper:: https://ajc.me/
-* Much more :arrow_double_right:: https://andrew.j.cosgriff.name/
+* Much more :point_right:: https://andrew.j.cosgriff.name/
