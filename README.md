@@ -25,5 +25,5 @@ Plan:
  ...but still around.
 ```
 
-* Recent news :newspaper:: https://ajc.me/
+* Recent news :newspaper:: https://apintandarparma.club/ajc/
 * Much more :point_right:: https://andrew.j.cosgriff.name/
